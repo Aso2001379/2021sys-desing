@@ -33,6 +33,6 @@ DBサーバー -> webサーバー:認証結果
  webサーバー -> ユーザー:ログアウト結果
  end 
   
-  deactivate ユーザー
-  @enduml
+ deactivate ユーザー
+ @enduml
  
