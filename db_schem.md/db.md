@@ -7,6 +7,8 @@ d_purchase
 |total_price|int(11)||〇||<br>
 
 d_purchase_detail
+|属性名|型|PK|NN|FK|
+|------|--|--|--|--|
 |detail_id|bigint(20)|〇|〇||
 |order_id|bigint(20) |〇|〇||
 |item_code|int(11)|〇|〇|〇|
