@@ -1,4 +1,4 @@
-```startuml
+```
 @startuml
 Entity01 }|..|| Entity02
 Entity03 }○..○| Entity04
