@@ -82,5 +82,4 @@ package "ECサイト" as target_system {
         name
         reg_date
     }
-@enduml
-```
+    
