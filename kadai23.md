@@ -82,8 +82,6 @@ package "ECサイト" as target_system {
         name
         reg_date
     }
-    ```startuml
-@startuml
 Entity01 }|..|| Entity02
 Entity03 }o..o| Entity04
 Entity05 ||--o{ Entity06
