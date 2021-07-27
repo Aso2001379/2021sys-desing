@@ -82,4 +82,10 @@ package "ECサイト" as target_system {
         name
         reg_date
     }
-    
+  
+customer }|..|| order
+order }o..o| order_detail 
+order_detail  ||--o{ items
+items |o--|| category
+@enduml
+```
